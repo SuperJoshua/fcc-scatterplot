@@ -2,6 +2,8 @@
 
 [--> See it live.](https://superjoshua.github.io/fcc-scatterplot/)
 
+This was a project required for getting the Data Visualization Certificate from freeCodeCamp. It had to fulfill these "user stories".
+
 - I can see a title element that has a corresponding id="title".
 - I can see an x-axis that has a corresponding id="x-axis".
 - I can see a y-axis that has a corresponding id="y-axis".
