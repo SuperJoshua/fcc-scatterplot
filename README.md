@@ -1,4 +1,4 @@
-# Build a Bar Chart
+# Build a Scatterplot
 
 [--> See it live.](https://superjoshua.github.io/fcc-scatterplot/)
 
